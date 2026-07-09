@@ -44,7 +44,7 @@ dotfiles/
 | **Rofi** | Launcher de apps | `rofi` |
 | **Kitty** | Terminal | `kitty` |
 | **Neovim + NvChad** | Editor de código | `neovim` |
-| **Brave** | Navegador | `brave-bin` |
+| **Firefox** | Navegador | `firefox-bin` |
 | **Joplin** | Notas | `joplin` |
 | **spotify-player** | Música (TUI) | `spotify-player` |
 | **btop** | Monitor do sistema | `btop` |
